@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #5780AD;
+    color: #FFF;
+    border-radius: 3px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#clean {
+    margin-right: 10px;
+}
+
+.pull-right {
+    float: right;
+}
+
+.dhx_cal_event.fixed div {
+    background-color: #8A8A8A;
+    color: #ffffff;
+}
+
+.dhx_cal_event.not-fixed div {
+    background-color: #DBCF8C;
+    color: #ffffff;
+}
+
+.dhx_cal_event.ended div {
+    background-color: #90db87;
+    color: #ffffff;
+}
