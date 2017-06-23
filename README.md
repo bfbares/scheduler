@@ -47,4 +47,4 @@ docker run -it --rm -p 80:8080 scheduler
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Creative Commons Zero v1.0 Universal License - see the [LICENSE.md](LICENSE.md) file for details
